@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<photos>
+
+  <!--EVERYDAY-->
+  <item galleryItem="no" keyFrame="no" gallery="Everyday" homepage="no" page="" sort="1">
+    <img fileName="tjs_minemuse_03.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="" />
+    <date>04/04/2014</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="yes" gallery="Everyday" homepage="no" page="" sort="1">
+    <img fileName="tjs_ourhouse_011.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="Andie Powers" url=""/>
+    <location name="" />
+    <date>06/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Everyday" homepage="no" page="" sort="1">
+    <img fileName="tjs_minemuse_04.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="" />
+    <date>04/04/2014</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Everyday" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0101.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="Angela Carlyle" url="angelaandevan.com"/>
+    <location name="Golden Gardens, Seattle WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Everyday" homepage="no" page="" sort="1">
+    <img fileName="tjs_bhldn_03.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net" />
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <!--COLLABORATIONS-->
+  <item galleryItem="no" keyFrame="yes" gallery="Collaborations" homepage="no" page="" sort="1">
+    <img fileName="tjs_smbg_01.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="Laura Cassidy" url=""/>
+    <location name="Seattle WA" />
+    <date>10/01/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Collaborations" homepage="no" page="" sort="1">
+    <img fileName="tjs_bhldn_02.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net"/>
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <!-- EVENTS SECTION-->
+
+
+  <item galleryItem="yes" keyFrame="yes" gallery="Events" homepage="no" page="" sort="1">
+    <img fileName="tjs_shellybart_02.jpg" orientation="landscape" />
+    <description></description>
+    <photographer name="Scott McNemara" url="purveyorofdifferent.com"/>
+    <location name="Pravda Studios, Seattle WA" />
+    <date>09/13/2011</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0102.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net" />
+    <location name="Anthropologie - Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="no" keyFrame="no" gallery="Events" homepage="no" page="" sort="1">
+    <img fileName="tjs_homepage_0109.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Phil Chester" url="philchester.com" />
+    <location name="Maroni Meadows - Snohomish, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0104.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Angela Carlyle" url="angelaandevan.com"/>
+    <location name="Golden Gardens, Seattle WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0105.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Angela Carlyle" url="angelaandevan.com"/>
+    <location name="Seattle WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0106.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Emily Louise Photography" url="myemilylouise.com" />
+    <location name="Ellensburg, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0107.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Angela Carlyle" url="angelaandevan.com"/>
+    <location name="Seattle, WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0108.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name=""/>
+    <location name="Sumner, WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0103.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Angela Carlyle" url="angelaandevan.com"/>
+    <location name="Seattle WA" />
+    <date>01/29/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0110.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Phil Chester" url="philchester.com" />
+    <location name="Maroni Meadows - Snohomish, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="no" page="" sort="1">
+    <img fileName="tjs_maui_01.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name=""/>
+    <location name="Haiku Mill - Maui, Hawaii" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0111.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Phil Chester" url="philchester.com" />
+    <location name="Maroni Meadows - Snohomish, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0112.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="Sumner, WA" />
+    <date>09/04/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0113.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Alante" url="alantephotography.com" />
+    <location name="Alerbrook Resort - Union, WA" />
+    <date>7/04/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0114.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Alante" url="alantephotography.com" />
+    <location name="Alerbrook Resort - Union, WA" />
+    <date>7/04/2015</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="no" page="" sort="1">
+    <img fileName="tjs_routon_02.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, AK" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0115.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Alante" url="alantephotography.com" />
+    <location name="Alerbrook Resort - Union, WA" />
+    <date>7/04/2015</date>
+    <event></event>
+  </item>
+    <item galleryItem="no" keyFrame="no" gallery="Events" homepage="yes" page="" sort="1">
+    <img fileName="tjs_homepage_0116.jpg" orientation="portrait"/>
+    <description></description>
+    <photographer name="Alante" url="alantephotography.com" />
+    <location name="Alerbrook Resort - Union, WA" />
+    <date>7/04/2015</date>
+    <event></event>
+  </item>
+  
+    <!--EVENTS GALLERY SECTION-->
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="1" sort="4">
+    <img fileName="tjs_bhldn_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net"/>
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="1" sort="1">
+    <img fileName="tjs_bhldn_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net"/>
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="1" sort="2">
+    <img fileName="tjs_bhldn_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net"/>
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="1" sort="3">
+    <img fileName="tjs_bhldn_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Ryan Flynn" url="ryanflynnphotography.net"/>
+    <location name="Anthropologie, Seattle WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item> 
+   <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="2" sort="1">
+    <img fileName="tjs_howe_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Julie Harmsen" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="2" sort="2">
+    <img fileName="tjs_howe_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Julie Harmsen" url=""/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="2" sort="3">
+    <img fileName="tjs_howe_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Julie Harmsen" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="2" sort="4">
+    <img fileName="tjs_howe_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Julie Harmsen" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="3" sort="1">
+    <img fileName="tjs_jefferies_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="Pine River Ranch - Leavenworth, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="3" sort="2">
+    <img fileName="tjs_jefferies_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+      <location name="Pine River Ranch - Leavenworth, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="3" sort="3">
+    <img fileName="tjs_jefferies_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="Pine River Ranch - Leavenworth, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="3" sort="4">
+    <img fileName="tjs_jefferies_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="Pine River Ranch - Leavenworth, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="4" sort="1">
+    <img fileName="tjs_looney_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Christopher Gendron" url="gendronphoto.com"/>
+    <location name="De Lille Cellars - Woodinville, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="4" sort="2">
+    <img fileName="tjs_looney_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Christopher Gendron" url="gendronphoto.com"/>
+      <location name="De Lille Cellars - Woodinville, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="4" sort="3">
+    <img fileName="tjs_looney_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Christopher Gendron" url="gendronphoto.com"/>
+    <location name="De Lille Cellars - Woodinville, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="4" sort="4">
+    <img fileName="tjs_looney_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Christopher Gendron" url="gendronphoto.com"/>
+    <location name="De Lille Cellars - Woodinville, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+ <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="5" sort="1">
+    <img fileName="tjs_routon_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="5" sort="2">
+    <img fileName="tjs_routon_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="5" sort="3">
+    <img fileName="tjs_routon_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="5" sort="4">
+    <img fileName="tjs_routon_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+   <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="6" sort="1">
+    <img fileName="tjs_shelly_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Scott McNamara" url="purveyorofdifferent.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="6" sort="2">
+    <img fileName="tjs_shelly_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Scott McNamara" url="purveyorofdifferent.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="6" sort="3">
+    <img fileName="tjs_shelly_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Scott McNamara" url="purveyorofdifferent.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="6" sort="4">
+    <img fileName="tjs_shelly_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Scott McNamara" url="purveyorofdifferent.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  
+<item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="7" sort="1">
+    <img fileName="tjs_gartland_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+  <photographer name="Lynette Johnson" url="lynettejohnson.com " />
+  <location name="Private Residence - Port Townsend, Washington" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="7" sort="2">
+    <img fileName="tjs_gartland_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Lynette Johnson" url="lynettejohnson.com " />
+      <location name="Private Residence - Port Townsend, Washington" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="7" sort="3">
+    <img fileName="tjs_gartland_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Lynette Johnson" url="lynettejohnson.com " />
+    <location name="Private Residence - Port Townsend, Washington" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="7" sort="4">
+    <img fileName="tjs_gartland_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Lynette Johnson" url="lynettejohnson.com " />
+    <location name="Private Residence - Port Townsend, Washington" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="8" sort="1">
+    <img fileName="tjs_rjtj_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="8" sort="2">
+    <img fileName="tjs_rjtj_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="8" sort="3">
+    <img fileName="tjs_rjtj_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="8" sort="4">
+    <img fileName="tjs_rjtj_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  
+  
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="9" sort="1">
+    <img fileName="tjs_rjtj_02_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="9" sort="2">
+    <img fileName="tjs_rjtj_02_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="GH Kim Photography" url="ghkim.com"/>
+      <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="9" sort="3">
+    <img fileName="tjs_rjtj_02_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="9" sort="4">
+    <img fileName="tjs_rjtj_02_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="GH Kim Photography" url="ghkim.com"/>
+    <location name="Seattle, WA"/>
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    
+    
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="10" sort="1">
+    <img fileName="tjs_yellow_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="10" sort="2">
+    <img fileName="tjs_yellow_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="10" sort="3">
+    <img fileName="tjs_yellow_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Psalm Oines" url="psalmoines.com"/>
+    <location name="The Larkspur - Sitka, Alaska" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Events" homepage="no" page="10" sort="4">
+    <img fileName="tjs_yellow_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+<!--everyday gallery -->
+<item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="1" sort="4">
+    <img fileName="tjs_green_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="1" sort="1">
+    <img fileName="tjs_green_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="1" sort="2">
+    <img fileName="tjs_green_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="1" sort="3">
+    <img fileName="tjs_green_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item> 
+   <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="2" sort="1">
+    <img fileName="tjs_juice_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+     <photographer name="" url=""/>
+     <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="2" sort="2">
+    <img fileName="tjs_juice_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="" url=""/>
+      <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="2" sort="3">
+    <img fileName="tjs_juice_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="2" sort="4">
+    <img fileName="tjs_juice_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="3" sort="1">
+    <img fileName="tjs_peony_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Courtney Kelly" url=""/>
+    <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="3" sort="2">
+    <img fileName="tjs_peony_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="" url=""/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="3" sort="3">
+    <img fileName="tjs_peony_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="3" sort="4">
+    <img fileName="tjs_peony_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="4" sort="1">
+    <img fileName="tjs_livingroom_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Andy Powers" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="4" sort="2">
+    <img fileName="tjs_livingroom_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="" url=""/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="4" sort="3">
+    <img fileName="tjs_livingroom_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="4" sort="4">
+    <img fileName="tjs_livingroom_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+ <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="5" sort="1">
+    <img fileName="tjs_purple_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Maui, Hi" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="5" sort="2">
+    <img fileName="tjs_purple_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="5" sort="3">
+    <img fileName="tjs_purple_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Maija Karin Photography" url=""/>
+    <location name="Leavenworth, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="5" sort="4">
+    <img fileName="tjs_purple_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+   
+  
+<item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="7" sort="1">
+    <img fileName="tjs_thanksgiving_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+  <photographer name="" url=""/>
+  <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="7" sort="2">
+    <img fileName="tjs_thanksgiving_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="" url=""/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="7" sort="3">
+    <img fileName="tjs_thanksgiving_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Everyday" homepage="no" page="7" sort="4">
+    <img fileName="tjs_thanksgiving_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+<!--Collaborations Gallery-->
+  
+<item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="1" sort="4">
+    <img fileName="tjs_brunch_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="1" sort="1">
+    <img fileName="tjs_brunch_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="1" sort="2">
+    <img fileName="tjs_brunch_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="1" sort="3">
+    <img fileName="tjs_brunch_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item> 
+   <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="2" sort="1">
+    <img fileName="tjs_brunch_02_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+     <photographer name="Dennis Wise" url="denisewise.com"/>
+     <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="2" sort="2">
+    <img fileName="tjs_brunch_02_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Dennis Wise" url="denisewise.com"/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="2" sort="3">
+    <img fileName="tjs_brunch_02_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="2" sort="4">
+    <img fileName="tjs_brunch_02_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="3" sort="1">
+    <img fileName="tjs_haiku_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="3" sort="2">
+    <img fileName="tjs_haiku_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="" url=""/>
+      <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="3" sort="3">
+    <img fileName="tjs_haiku_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="3" sort="4">
+    <img fileName="tjs_haiku_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Maui, HI" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="4" sort="1">
+    <img fileName="tjs_montmarte_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="4" sort="2">
+    <img fileName="tjs_montmarte_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="4" sort="3">
+    <img fileName="tjs_montmarte_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="4" sort="4">
+    <img fileName="tjs_montmarte_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+ <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="5" sort="1">
+    <img fileName="tjs_montmarte_02_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+   <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+   <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="5" sort="2">
+    <img fileName="tjs_montmarte_02_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="5" sort="3">
+    <img fileName="tjs_montmarte_02_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="5" sort="4">
+    <img fileName="tjs_montmarte_02_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Light and Sound Photography" url="lightandsoundphotography.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="6" sort="1">
+    <img fileName="tjs_picnic_01_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="6" sort="2">
+    <img fileName="tjs_picnic_01_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Dennis Wise" url="denisewise.com"/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="6" sort="3">
+    <img fileName="tjs_picnic_01_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="6" sort="4">
+    <img fileName="tjs_picnic_01_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="" url=""/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+<item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="7" sort="1">
+    <img fileName="tjs_picnic_02_NORMAL.jpg" orientation="landscape"/>
+    <description></description>
+  <photographer name="Dennis Wise" url="denisewise.com"/>
+  <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+    <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="7" sort="2">
+    <img fileName="tjs_picnic_02_WIDE.jpg" orientation="wide"/>
+    <description></description>
+      <photographer name="Dennis Wise" url="denisewise.com"/>
+      <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="7" sort="3">
+    <img fileName="tjs_picnic_02_SQUARE1.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+  <item galleryItem="yes" keyFrame="no" gallery="Collaborations" homepage="no" page="7" sort="4">
+    <img fileName="tjs_picnic_02_SQUARE2.jpg" orientation="square"/>
+    <description></description>
+    <photographer name="Dennis Wise" url="denisewise.com"/>
+    <location name="Seattle, WA" />
+    <date>12/04/2013</date>
+    <event></event>
+  </item>
+
+</photos>

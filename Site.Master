@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="teressajohnsonstudio.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="p:domain_verify" content="e44bbad5ebcc50bf137d2842bdb74094"/>
+    <title><%: Page.Title %> - Teressa Johnson Studio</title>
+    <!--[if !IE]><!--><link href="~/common/css/screen.css" rel="stylesheet" /><!--<![endif]-->
+    <!--[if IE]></script>
+        <link href="~/common/css/screen-IE.css" rel="stylesheet" />
+        
+        <![endif]--> 
+    <!--[if lt IE 9]>
+<script src="common/js/html5shiv.js""></script>
+<![endif]-->
+
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script src="common/js/jquery-1.8.2.min.js"></script>
+    <script src="common/js/jquery-ui-1.8.24.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-5116606-9', 'auto');
+        ga('send', 'pageview');
+
+</script>
+    <script type="text/javascript" async data-pin-color="red" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+
+
+<body id="<%: Page.Title %>">
+    <form runat="server">
+        <section id="Wrapper">
+        <header >
+            <section>
+                <div class="mobileContainer"><img src="common/img/teressa-logo-final.jpg" data-pin-no-hover="true" /></div>
+            <nav>
+                <ul class="clearFix">
+                    <li class="subscribe"><a href="subscribe.aspx">Wild + Gathered</a></li>
+                    <li class="gallery"><a href="gallery.aspx">Gallery</a></li>
+                    <li class="about"><a href="about.aspx">About</a></li>
+                    <li class="info"><a href="info.aspx">Info</a></li>
+                    <li class="logo"><a href="Default.aspx"><span class="mobile">home</span><img src="common/img/teressa-logo-final.jpg" data-pin-no-hover="true" /></a></li>
+                    <li class="faq"><a href="faq.aspx">Faq</a></li>
+                    <li class="reviews"><a href="reviews.aspx">Reviews</a></li>
+                    <li class="contact"><a href="contact.aspx">Contact</a></li>
+                    <li class="blog"><a href="http://blog.teressajohnsonstudio.com" target="_blank">Blog</a></li>
+                    <li class="handle"><img src="common/img/navHandle.png" data-pin-no-hover="true" /></li>
+                </ul>
+            </nav>
+                </section>
+        </header>
+    <section>
+        <section class="content-wrapper main-content">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </section>
+    <footer>
+        <div class="content-wrapper">
+                <p>&copy; <%: DateTime.Now.Year %> -Teressa Johnson Studio</p>
+        </div>
+    </footer>
+            </section>
+    </form>
+        <script src="common/js/tjs.js"></script>
+</body>
+</html>
