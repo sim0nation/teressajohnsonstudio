@@ -42,7 +42,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class=" pageContent bottomBorder">
+                    <!-- <div class=" pageContent bottomBorder">
                         <div class="subSection">
                             <div class="iconContainer">
                                 <img class="icons" src="common/img/recycle.png" />
@@ -52,13 +52,14 @@
                                 <p>For the clients who love cut flowers, but feel a twinge inside knowing their vase life is short, listen up.  We are building partnerships within our community to share your leftover flowers so more people can enjoy them while you’re enjoying your honeymoon.  We think this is brilliant, and are really excited about it.  Also, for a nominal fee, we can rearrange your flowers and deliver as a gift to a recipient of your choice.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                 
 
             </div>
 
             <div class="linkers">
+                <!-- TODO: add additional badges -->
                 <div>
                     <h2>Featured By</h2>
                     <img src="common/img/greenWedding_process.jpg" />

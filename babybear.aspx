@@ -15,7 +15,8 @@
             <div class="pageContent">
                 <div>
                 <p>YES, LOVELY.</p>
-                <p>$75.00</p>
+                <p>$95.00</p>
+                <p>Plus Tax and Delivery</p>
                 <p>Flowers have been known to bring happy energy to a space. This sweet little number will brighten it up and leave you feeling balanced and lively. This image is an example of size and feel. All flowers and foliage are season specific, but of course feel free to leave comments and we'll do our best to accomodate.</p>
                 <p>American grown | Locally resourced | Delivered Thursdays</p>
                     <input type="hidden" name="cmd" value="_s-xclick">
@@ -25,8 +26,8 @@
                             <tr>
                                 <td>
                                     <select name="os0">
-	                                    <option value="weekly">Yes, Lovely. : $75.00 USD - weekly</option>
-	                                    <option value="monthly">Yes, Lovely. : $75.00 USD - monthly</option>
+	                                    <option value="weekly">Yes, Lovely. : $132.12 USD - weekly</option>
+	                                    <option value="monthly">Yes, Lovely. : $132.12 USD - monthly</option>
                                     </select>
                                 </td>
                             </tr>
