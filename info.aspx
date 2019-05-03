@@ -62,12 +62,18 @@
                 <!-- TODO: add additional badges -->
                 <div>
                     <h2>Featured By</h2>
-                    <img src="common/img/greenWedding_process.jpg" />
-                    <img src="common/img/seattleBride_process.png" />
-                    <img src="common/img/bhldn_process.png" />
-                    <img src="common/img/magnoliarogue.png" />
-                    <img src="common/img/seattleMet_process.jpg" />
-                    
+                    <img src="common/img/logos/greenWedding_process.jpg" />
+                    <img src="common/img/logos/seattleBride_process.png" />
+                    <img src="common/img/logos/bhldn_process.png" />
+                    <img src="common/img/logos/magnoliarogue.png" />
+                    <img src="common/img/logos/seattleMet_process.jpg" />
+                    <img src="common/img/logos/100_layer_cake_badge.png" />
+                    <img src="common/img/logos/amazon-logo-badge.png" />
+                    <img src="common/img/logos/cottage_hill_badge.png" />
+                    <img src="common/img/logos/G_grey_300.png" />
+                    <img src="common/img/logos/Gather-Seattle-logo-01.png" />
+                    <img src="common/img/logos/hello-may-badge.png" />
+                    <img src="common/img/logos/pnwWeddings_badge.png" />
                     
                 </div>
             </div>
