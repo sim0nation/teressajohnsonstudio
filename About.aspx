@@ -16,7 +16,7 @@
             </div>
             <div>
                 <div class="secondaryPageContent">
-                    <img src="/common/img/tjs_greenwater_01.jpg" />
+                    <img src="/common/img/family_photo.jpg" />
                 </div>
             </div>
 
