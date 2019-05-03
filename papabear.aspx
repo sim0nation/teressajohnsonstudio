@@ -5,7 +5,7 @@
         <div class="col1 rightBorder">
             <div class="bottomBorder ">
                 <div class="secondaryPageContent">
-                    <img src="/common/img/tjs_wild-gathered_013.jpg" />
+                    <img src="/common/img/papa_bear_1.JPG" />
                 </div>
             </div>
         </div>
@@ -16,6 +16,7 @@
                 <div>
                 <p>WHY, HELLO!</p>
                 <p>$300.00</p>
+                <p>Plus Tax and Delivery</p>
                 <p>Why, hello! Transform a space and respect its architecture, and for goodness sake, let's bring in some flowers!  Dramatic, large, and boasting a large variety of blooms, this type of arrangement will turn heads and make them swoon.  Perfect for grand entrances, reception desks, and spiraling staircases, this size will be a showstopper.  All flowers and foliage are season specific, but of couse feel free to leave comments and we'll do our best to accommodate.</p>
                 <p>American grown | Locally resourced | Delivered Thursdays</p>
                     <input type="hidden" name="cmd" value="_s-xclick">
@@ -25,8 +26,8 @@
                             <tr>
                                 <td>
                                     <select name="os0">
-	                                    <option value="weekly">Why, Hello! : 300.00 USD - weekly</option>
-	                                    <option value="monthly">Why, Hello! : 300.00 USD - monthly</option>
+	                                    <option value="weekly">Why, Hello! : 357.83 USD - weekly</option>
+	                                    <option value="monthly">Why, Hello! : 357.83 USD - monthly</option>
                                     </select>
                                 </td>
                             </tr>

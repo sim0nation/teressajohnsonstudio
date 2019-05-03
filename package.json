@@ -1,0 +1,23 @@
+{
+  "name": "teressajohnsonstudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".index.js",
+  "scripts": {
+    "run": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sim0nation/teressajohnsonstudio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sim0nation/teressajohnsonstudio/issues"
+  },
+  "homepage": "https://github.com/sim0nation/teressajohnsonstudio#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

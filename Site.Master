@@ -44,7 +44,7 @@
                 <div class="mobileContainer"><img src="common/img/teressa-logo-final.jpg" data-pin-no-hover="true" /></div>
             <nav>
                 <ul class="clearFix">
-                    <li class="subscribe"><a href="subscribe.aspx">Wild + Gathered</a></li>
+                    <li class="subscribe"><a href="subscribe.aspx">Subscriptions</a></li>
                     <li class="gallery"><a href="gallery.aspx">Gallery</a></li>
                     <li class="about"><a href="about.aspx">About</a></li>
                     <li class="info"><a href="info.aspx">Info</a></li>

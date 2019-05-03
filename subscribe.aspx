@@ -6,10 +6,10 @@
             <div class="bottomBorder">
                 <div class="titleContainer clearFix">
                     <div class="pageTitle rightBorder">
-                        <div class="hexagon"><span>W + G</span></div>
+                        <div class="hexagon"><span>Subscribe</span></div>
                     </div>
                     <div class="descriptor">
-                        <p><a href="/documents/wild-gathered-faq.pdf"  title="Wild and Gathered FAQ" target="_blank">Tell me more</a></p>
+                        <p><a href="/documents/wild-gathered-faq.pdf"  title="Subscriptions FAQ" target="_blank">Tell me more</a></p>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                     </div>
                     <div>
                         <a href="papabear.aspx">
-                        <img src="/common/img/tjs_wild-gathered_013.jpg" />
+                        <img src="/common/img/papa_bear_1.JPG" />
                         <p>WHY, HELLO!</p>
                         </a>
                     </div>

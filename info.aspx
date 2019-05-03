@@ -42,7 +42,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class=" pageContent bottomBorder">
+                    <!-- <div class=" pageContent bottomBorder">
                         <div class="subSection">
                             <div class="iconContainer">
                                 <img class="icons" src="common/img/recycle.png" />
@@ -52,21 +52,28 @@
                                 <p>For the clients who love cut flowers, but feel a twinge inside knowing their vase life is short, listen up.  We are building partnerships within our community to share your leftover flowers so more people can enjoy them while you’re enjoying your honeymoon.  We think this is brilliant, and are really excited about it.  Also, for a nominal fee, we can rearrange your flowers and deliver as a gift to a recipient of your choice.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                 
 
             </div>
 
             <div class="linkers">
+                <!-- TODO: add additional badges -->
                 <div>
                     <h2>Featured By</h2>
-                    <img src="common/img/greenWedding_process.jpg" />
-                    <img src="common/img/seattleBride_process.png" />
-                    <img src="common/img/bhldn_process.png" />
-                    <img src="common/img/magnoliarogue.png" />
-                    <img src="common/img/seattleMet_process.jpg" />
-                    
+                    <img src="common/img/logos/greenWedding_process.jpg" />
+                    <img src="common/img/logos/seattleBride_process.png" />
+                    <img src="common/img/logos/bhldn_process.png" />
+                    <img src="common/img/logos/magnoliarogue.png" />
+                    <img src="common/img/logos/seattleMet_process.jpg" />
+                    <img src="common/img/logos/100_layer_cake_badge.png" />
+                    <img src="common/img/logos/amazon-logo-badge.png" />
+                    <img src="common/img/logos/cottage_hill_badge.png" />
+                    <img src="common/img/logos/G_grey_300.png" />
+                    <img src="common/img/logos/Gather-Seattle-logo-01.png" />
+                    <img src="common/img/logos/hello-may-badge.png" />
+                    <img src="common/img/logos/pnwWeddings_badge.png" />
                     
                 </div>
             </div>
