@@ -15,7 +15,7 @@
             <div class="pageContent">
                 <div>
                 <p>OH, PICK ME!</p>
-                <p>$175.00</p>
+                <p>$150.00</p>
                 <p>Plus Tax and Delivery</p>
                 <p>Ushering into thoughtful arrangement that which grows wild and free. These are the words to describe our aesthetic, and the words by which we design. Who wouldn't want to enter a space with such lovely thoughtfulness? Appealing to the eyes and to the imagination, this size is great for an entryway, foyer, or a living room and packed with sublime flowers that make an impressive statement.  All flowers and foliage are season specific, but of course feel free to leave comments and we'll do our best to accommodate.</p>
                 <p>American grown | Locally resourced | Delivered Thursdays</p>
@@ -26,8 +26,8 @@
                             <tr>
                                 <td>
                                     <select name="os0">
-	                                    <option value="weekly">Oh, pick me! : $220.20 USD - weekly</option>
-	                                    <option value="monthly">Oh, pick me! : $220.20 USD - monthly</option>
+	                                    <option value="weekly">Oh, pick me! : $192.68 USD - weekly</option>
+	                                    <option value="monthly">Oh, pick me! : $192.68 USD - monthly</option>
                                     </select>
                                 </td>
                             </tr>
